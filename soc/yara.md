@@ -115,3 +115,15 @@ rule regularExpression
 |                   |                      |                      |                   | not defined  |
 |                   |                      |                      |                   | filesize     |
 
+## Arguments
+
+| Short Flag | Long Flag       | Description                                                          |
+| ---------- | --------------- | -------------------------------------------------------------------- |
+| -r         | --recursive     | Scan directories recursively                                         |
+| -n         | --negate        | Print only rules that weren't matched                                |
+| -S         | --print-stats   | Print metadata related to the performance and efficiency of the rule |
+| -s         | --print-strings | Print the strings that were matched in a file                        |
+| -X         | --print-xor-key | Print xor key and plaintext of matched strings                       |
+| -v         | --version       | Show the YARA version                                                |
+| -p         | --threads=N     | Use N threads to scan a directory                                    |
+
