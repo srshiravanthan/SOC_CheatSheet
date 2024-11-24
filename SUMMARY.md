@@ -3,3 +3,4 @@
 * [SOC](README.md)
   * [Email Analysis](soc/email-analysis.md)
   * [Splunk](soc/splunk.md)
+  * [YARA](soc/yara.md)
