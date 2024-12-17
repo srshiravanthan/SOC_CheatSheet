@@ -4,3 +4,4 @@
   * [Email Analysis](soc/email-analysis.md)
   * [Splunk](soc/splunk.md)
   * [YARA](soc/yara.md)
+  * [Assembly Language](soc/assembly-language.md)
