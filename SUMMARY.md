@@ -6,3 +6,4 @@
   * [YARA](soc/yara.md)
   * [Assembly Language](soc/assembly-language.md)
   * [Malware Analysis](soc/malware-analysis.md)
+  * [WireShark](soc/wireshark.md)
