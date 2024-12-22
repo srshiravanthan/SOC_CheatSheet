@@ -127,3 +127,17 @@ rule regularExpression
 | -v         | --version       | Show the YARA version                                                |
 | -p         | --threads=N     | Use N threads to scan a directory                                    |
 
+## YaraGen Tool
+
+{% embed url="https://github.com/Neo23x0/yarGen" %}
+
+how to download YaraGen tool follow steps below:
+
+* Download the latest release from the `release` section
+* Install all dependencies with `pip install -r requirements.txt`
+* Run `python yarGen.py --update` to automatically download the built-in databases. They will be saved into the './dbs' subfolder (Download: `913 MB`).
+* See help with `python yarGen.py --help` for more information on the command line parameters.
+
+```shell-session
+python3 yarGen.py -m <malware_sample_file_location> -o outfilesample.yar
+```
