@@ -141,3 +141,9 @@ how to download YaraGen tool follow steps below:
 ```shell-session
 python3 yarGen.py -m <malware_sample_file_location> -o outfilesample.yar
 ```
+
+## Resource&#x20;
+
+* [How to Write Simple but Sound Yara Rules - Part 1](https://www.nextron-systems.com/2015/02/16/write-simple-sound-yara-rules/)
+* [How to Write Simple but Sound Yara Rules - Part 2](https://www.nextron-systems.com/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/)
+* [How to Write Simple but Sound Yara Rules - Part 3](https://www.nextron-systems.com/2016/04/15/how-to-write-simple-but-sound-yara-rules-part-3/)
