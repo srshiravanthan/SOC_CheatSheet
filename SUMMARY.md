@@ -7,3 +7,5 @@
   * [Assembly Language](soc/assembly-language.md)
   * [Malware Analysis](soc/malware-analysis.md)
   * [WireShark](soc/wireshark.md)
+  * [Network Security](soc/network-security.md)
+  * [Endpoint Security](soc/endpoint-security.md)
