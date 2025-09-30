@@ -14,3 +14,4 @@
 
 {% embed url="http://snorpy.cyb3rs3c.net/" %}
 
+{% embed url="https://assets.tryhackme.com/cheatsheets/Snort%20Cheatsheet%20-%20TryHackMe.pdf" %}
