@@ -10,3 +10,4 @@
   * [Network Security](soc/network-security.md)
   * [Endpoint Security](soc/endpoint-security.md)
   * [Splunk Queries](soc/splunk-queries.md)
+  * [Regular Expression](soc/regular-expression.md)
